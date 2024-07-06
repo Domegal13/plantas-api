@@ -9,6 +9,6 @@ app.get("/", (req, res) => {
   res.send("Estas en el home");
 });
 
-app.use("api/v1/plantas", platasRouter);
+app.use("/api/v1/plantas", platasRouter);
 
 export default app;
