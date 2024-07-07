@@ -2,7 +2,7 @@
 import { Sequelize } from "sequelize";
 import mysql from "../../config.js";
 
-const db = new Sequelize(mysql.database, mysql.user, "", {
+const db = new Sequelize(mysql.database, mysql.user, mysql.password, {
   host: mysql.host,
   dialect: "mysql",
   port: 3306,
