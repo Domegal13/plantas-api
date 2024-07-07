@@ -5,7 +5,7 @@ export const postPlanta = async (req, res) => {
     const body = req.body;
     await Plantas.sync();
     const newPlanta = await Plantas.create(body);
-    res.status(201).json({ message: "Registro creado correctamente" });
+    res.status(201).json({ message: "---Registro creado correctamente---" });
   } catch (error) {
     res.json({ message: error.message });
   }
