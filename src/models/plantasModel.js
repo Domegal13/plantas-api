@@ -2,7 +2,7 @@
 import { DataTypes, UUIDV4 } from "sequelize";
 import db from "../database/db.js";
 
-const plantasModel = db.define("plantas", {
+const plantasModel = db.define("planta", {
   id: {
     type: DataTypes.UUID,
     defaultValue: UUIDV4,
