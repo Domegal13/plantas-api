@@ -7,7 +7,9 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Estas en el home");
+  res.send(
+    "<h1> ---------   Inicio Proyecto Codo a Codo Plantas-Api ------------- </h1>"
+  );
 });
 
 app.use("/api/v1/plantas", platasRouter);
