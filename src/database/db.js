@@ -5,7 +5,7 @@ import mysql from "../../config.js";
 const db = new Sequelize(mysql.database, mysql.user, "", {
   host: mysql.host,
   dialect: "mysql",
-  port: mysql.DB_PORT,
+  port: 3306,
 });
 
 export default db;
