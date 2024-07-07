@@ -6,7 +6,7 @@ const mysql = {
   host: process.env.DB_HOST || "localhost",
   user: process.env.DB_USER || "root",
   password: process.env.DB_PASSWORD || "",
-  database: process.env.DB || "plantas_api",
+  database: process.env.DB_NAME || "plantas_api",
   DB_PORT: process.env.DB_PORT || 3306,
 };
 
