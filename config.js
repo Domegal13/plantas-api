@@ -1,5 +1,5 @@
 // Aca colocaremos todas las variables de entorno del sistema
-import "dotenv";
+// import "dotenv";
 
 const mysql = {
   PORT: process.env.PORT || 3001,

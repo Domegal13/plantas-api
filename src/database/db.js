@@ -1,4 +1,4 @@
-import "dotenv/config";
+// import "dotenv/config";
 import { Sequelize } from "sequelize";
 import mysql from "../../config.js";
 
