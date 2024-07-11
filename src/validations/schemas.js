@@ -7,7 +7,7 @@ export const PlantaSchema = Joi.object({
 
   caracteristicas: Joi.string().required(),
 
-  sustrato: Joi.string(),
+  sustrato: Joi.string().max(50),
 
   riego: Joi.string(),
 

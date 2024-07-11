@@ -42,12 +42,17 @@ export const putPlanta = async (req, res) => {
   try {
     const { id } = req.params;
     const body = req.body;
-    await Plantas.update(body, {
-      where: { id },
-    });
-    res.json({
-      message: "Registro Actualizado Correctamente",
-    });
+    const updatePlanta = await Plantas.findByPk(id);
+    if (!updatePlanta) {
+      res.json({ message: "No se encontró ningún registro para actualizar" });
+    } else {
+      await Plantas.update(body, {
+        where: { id },
+      });
+      res.json({
+        message: "Registro Actualizado Correctamente",
+      });
+    }
   } catch (error) {
     res.json({ message: error.message });
   }
