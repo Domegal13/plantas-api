@@ -123,6 +123,6 @@ const mysql = {
 
 - MarinaCorbalan [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/MarinaCorbalan) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">]()
 
-- Agustin Peréz [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/agus0914) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">]()
+- Agustin Peréz [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/agus0914) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/agustin-perez-a44569267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
