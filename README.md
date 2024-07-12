@@ -117,12 +117,20 @@ const mysql = {
 
 ## Autores ✒️
 
-- Domenico Gallo [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/Domegal13) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/domegal13/)
+- **_Domenico Gallo García_** [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/Domegal13) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/domegal13/)
 
-- Guadalupe Luján Salgado [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/guadasalgado) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/guadasalgado/)
+- **_Guadalupe Luján Salgado_** [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/guadasalgado) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/guadasalgado/)
 
-- MarinaCorbalan [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/MarinaCorbalan) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">]()
+- **_Agustin Peréz_** [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/agus0914) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/agustin-perez-a44569267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- Agustin Peréz [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/agus0914) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">](https://www.linkedin.com/in/agustin-perez-a44569267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **_Marina Corbalan_** [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center">](https://github.com/MarinaCorbalan) [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center">]()
 
 ---
+
+## Agradecimientos
+
+Queremos expresar nuestro agradecimiento especial a:
+
+**_Prof. Gabriel Muñoz:_** Por su guía, dedicación, asesoramiento y enseñanza en estos meses que han sido fundamentales para llevar a cabo este proyecto.
+
+**_Codo a Codo:_** Por permitirnos ser parte de esta gran comunidad.
