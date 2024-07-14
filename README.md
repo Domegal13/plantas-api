@@ -2,13 +2,26 @@
 
 ---
 
-# API REST de Plantas
+# API REST de Plantas 🏁
 
 Esta es una API REST para gestionar información sobre plantas. La API permite crear, leer, actualizar y eliminar registros de plantas.
 
 ---
 
-## Descripción General
+![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
+🚧![Static Badge](https://img.shields.io/badge/En%20Construcci%C3%B3n-ff0000)🚧
+
+## Requisitos 🛠️
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-purple?logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black)
+
+---
+
+## Descripción General 🚀
 
 La API REST de Plantas proporciona los siguientes endpoints:
 
@@ -20,18 +33,7 @@ La API REST de Plantas proporciona los siguientes endpoints:
 
 ---
 
-## Requisitos
-
-- Node.js
-- Express
-- Sequelize
-- Base de datos (MySQL)
-- Joi (Validaciones)
-- Nodemon
-
----
-
-## Instalación
+## Instalación 🔧
 
 1. Clone el repositorio:
 
@@ -62,7 +64,7 @@ const mysql = {
 
 ---
 
-## Uso
+## Uso 📄
 
 1. Inicie el servidor
    `npm run dev`
@@ -76,7 +78,7 @@ const mysql = {
 
 ---
 
-## Endpoints
+## Endpoints 🚦
 
 ### 1. Obtener todas las plantas
 
@@ -119,14 +121,14 @@ const mysql = {
 
 | <h3 align="center">Nombre</h3>                                                                                                                                                                                                                                                                                    | <h3 align="center">GitHub</h3>                                                                                                                           | <h3 align="center">Linkedin</h3>                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://avatars.githubusercontent.com/u/105987399?v=4" width="30"  style="border-radius: 30px;" align="center">](https://github.com/Domegal13) **_Domenico Gallo García_**                                                                                                                             | [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center" style="border-radius: 20px;">](https://github.com/Domegal13)      | [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" style="border-radius: 20px;" align="center">](https://www.linkedin.com/in/domegal13/)                                                                                                  |
+| [<img src="https://avatars.githubusercontent.com/u/105987399?v=4" width="30"  style="border-radius: 30px;" align="center">](https://github.com/Domegal13) **_Doménico Gallo García_**                                                                                                                             | [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center" style="border-radius: 20px;">](https://github.com/Domegal13)      | [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" style="border-radius: 20px;" align="center">](https://www.linkedin.com/in/domegal13/)                                                                                                  |
 | [<img src="https://media.licdn.com/dms/image/C4D03AQFpLcw7xmhOSQ/profile-displayphoto-shrink_200_200/0/1603458892263?e=1726099200&v=beta&t=1PRM9ReuAZro5lxMhYToGCAIeAR3AtNloNAKIEoabiE" width="30"  style="border-radius: 30px;" align="center" >](https://github.com/guadasalgado) **_Guadalupe Luján Salgado_** | [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center" style="border-radius: 20px;">](https://github.com/guadasalgado)   | [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center" style="border-radius: 20px;">](https://www.linkedin.com/in/guadasalgado/)                                                                                               |
 | [<img src="https://avatars.githubusercontent.com/u/94230956?v=4" width="30"  style="border-radius: 30px;" align="center" >](https://github.com/agus0914) **_Agustin Peréz_**                                                                                                                                      | [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center" style="border-radius: 20px;">](https://github.com/agus0914)       | [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center" style="border-radius: 20px;">](https://www.linkedin.com/in/agustin-perez-a44569267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | [<img src="https://avatars.githubusercontent.com/u/161794715?v=4" width="30"  style="border-radius: 30px;" align="center" >](https://github.com/MarinaCorbalan) **_Marina Corbalan_**                                                                                                                             | [<img src="./src/assets/images/github-negro.png" width="30" height="30" align="center" style="border-radius: 20px;">](https://github.com/MarinaCorbalan) | [<img src="./src/assets/images/linkedin001.png" widht="30" height="30" align="center" style="border-radius: 20px;">]()                                                                                                                                        |
 
 ---
 
-## Agradecimientos
+## Agradecimientos 🎉
 
 **_Queremos expresar nuestro agradecimiento especial a:_**
 
